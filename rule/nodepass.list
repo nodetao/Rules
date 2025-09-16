@@ -3,4 +3,4 @@
 # REPO: https://github.com/nodetao/Rules/tree/main
 # UPDATED: 2025-09-01 18:52:25
 # IP-CIDR: 1
-IP-CIDR,47.109.39.186/32
+IP-CIDR,47.109.39.186/32,no-resolve
